@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I will build a simple webpage with a few links to some recipes. The intent with this project ins to combine the knowledge and experience gained so far in the odin introductory html course. 
